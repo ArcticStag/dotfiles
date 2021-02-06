@@ -9,13 +9,13 @@ and I use Visual Studio Code for Salesforce development.
 
 ```
 
-##Vim
+## Vim
 ![Vim](https://raw.githubusercontent.com/antwonlee/dotfiles/master/images/vim_base16.png)
 
-##iTerm & Tmux
+## iTerm & Tmux
 ![iterm](https://raw.githubusercontent.com/antwonlee/dotfiles/master/images/iterm_base16_2.png)
 
-##Visual Studio Code
+## Visual Studio Code
 ![VisualStudioCodeEditor](https://raw.githubusercontent.com/antwonlee/dotfiles/dd291a162d2a18ede3822909a830c7dd8de2d98c/images/vsc.jpg)
 
 ---
